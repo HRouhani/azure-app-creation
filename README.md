@@ -19,7 +19,7 @@ This script helps you create an application in Azure, set up a service principal
 2. Run the script:
 
     ```sh
-   python3 
+   python3 azure-app.py
 
 
 3. Follow the prompts to input your Azure subscription ID, role name, and application name.
